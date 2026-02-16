@@ -472,5 +472,6 @@ Ce projet est à usage éducatif uniquement.
 ---
 
 **🎉 Projet complet et fonctionnel !**
-#   P r o j e t - R e a c t - N a t i v e - d e r n i e r - d - m o  
+#   P r o j e t - R e a c t - N a t i v e - d e r n i e r - d - m o 
+ 
  
